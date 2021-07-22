@@ -1,0 +1,21 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JoaoGomes5/prisma.git",
+  "author": "Joao Gomes <joaopfg.2002@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsnd src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.0",
+    "prisma": "2.27.0",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "@prisma/client": "^2.27.0",
+    "ts-node-dev": "^1.1.8"
+  }
+}
