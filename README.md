@@ -35,7 +35,7 @@
 Clone the repository
 
 ```bash 
-  git clone https://github.com/JoaoGomes5/SOLID.git
+  git clone https://github.com/joaogomesdev/prismaQL.git
   cd prisma
 ```
 Install the dependencies
